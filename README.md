@@ -1,8 +1,9 @@
-# Hi there, I'm Adam aka [pajlot][website] 👋
+## Hi there, I'm Adam owner of [pajlot.pl][website] 👋
 
-## I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
+### I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
 
 - 🌱 I’m currently learning everything what is usefull 🤪
+- 🔭 I’m currently working on ePTL [ePTL]
 - 👯 I’m looking to collaborate with other dev pilots 🛩 🚁
 - ⛳️ 2020/2021 Goal: pilotlog 🛫 web app 🛬 
 - ⚡ modus operandi: Amat Victoria Curam – Victory loves preparation
@@ -18,7 +19,6 @@
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="xCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
@@ -59,6 +59,7 @@ As Henry Ford said:
 > this time more intelligently.
 
 [website]: https://pajlot.pl
+[ePTL]: https://pajlot.pl/ptl
 [twitter]: https://twitter.com/PajlotApps
 [youtube]: https://www.youtube.com/channel/UCtSGCQ19d2m_rbOsxZ22Ubw/featured
 [instagram]: https://www.instagram.com/pajlotapps/
