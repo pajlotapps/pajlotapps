@@ -1,6 +1,6 @@
 # Hi there, I'm Adam aka [pajlot][website] 👋
 
-## I'm a Husband, the ultimate self-learner iOS Developer, and 🇵🇱 🚁 Pilot!
+## I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
 
 - 🌱 I’m currently learning everything what is usefull 🤪
 - 👯 I’m looking to collaborate with other dev pilots 🛩 🚁
@@ -31,6 +31,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 
@@ -38,15 +39,6 @@
 
 <br />
 <br />
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<br />
-<br />
-
 
 <img align="left" alt="pajlotapps's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pajlotapps&show_icons=true&hide_border=true" />
 
