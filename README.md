@@ -29,7 +29,6 @@
 
 <br />
 <br />
-<br />
 
 <img align="left" alt="pajlotapps's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pajlotapps&show_icons=true&hide_border=true" />
 
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
 -->
 
 As Henry Ford said: 
-> Failure is simply the opportunity to begin again, 
+> Failure is simply the opportunity to begin again, <br />
 > this time more intelligently.
 
 [website]: https://pajlot.pl
