@@ -3,8 +3,8 @@
 ### I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
 
 - 🌱 I’m currently learning everything what is usefull 🤪
-- 🔭 I’m currently working on ePTL [ePTL]
-- 👯 I’m looking to collaborate with other dev pilots 🛩 🚁
+- 🔭 I’m currently working on [ePTL]
+- 👯 I’m looking to collaborate with other dev pilots 🛩 🚁 - feel free to [contact]
 - ⛳️ 2020/2021 Goal: pilotlog 🛫 web app 🛬 
 - ⚡ modus operandi: Amat Victoria Curam – Victory loves preparation
 
@@ -60,6 +60,7 @@ As Henry Ford said:
 
 [website]: https://pajlot.pl
 [ePTL]: https://pajlot.pl/ptl
+[contact]: https://pajlot.pl/contact.html
 [twitter]: https://twitter.com/PajlotApps
 [youtube]: https://www.youtube.com/channel/UCtSGCQ19d2m_rbOsxZ22Ubw/featured
 [instagram]: https://www.instagram.com/pajlotapps/
