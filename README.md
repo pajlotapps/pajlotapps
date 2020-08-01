@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-
+As Henry Ford said: 
+> Failure is simply the opportunity to begin again, 
+> this time more intelligently.
 
 [website]: https://pajlot.pl
 [twitter]: https://twitter.com/PajlotApps
