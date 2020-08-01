@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Adam - aka pajlotapps 👏🏻
+
+I'm a Husband, Developee, and mil Pilot!
 
 <!--
 **pajlotapps/pajlotapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
