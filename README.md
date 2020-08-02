@@ -59,6 +59,19 @@ As Henry Ford said:
 > Failure is simply the opportunity to begin again, <br />
 > this time more intelligently.
 
+<br />
+<br />
+
+Also interested in:
+  * Digital photography / graphics
+  * CAD
+  * blockchain
+  * Web Security
+
+#### Cheers,
+Adam
+[pajlot.pl][website]
+
 [website]: https://pajlot.pl
 [ePTL]: https://pajlot.pl/ptl
 [contact]: https://pajlot.pl/contact.html
