@@ -61,15 +61,17 @@ As Henry Ford said:
 
 <br />
 <br />
+<br />
+<br />
 
-Also interested in:
+#### Also interested in:
   * Digital photography / graphics
   * CAD
   * blockchain
   * Web Security
 
-#### Cheers,
-Adam
+#### Cheers,<br />
+Adam<br />
 [pajlot.pl][website]
 
 [website]: https://pajlot.pl
