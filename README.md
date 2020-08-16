@@ -1,4 +1,4 @@
-## Hi there, I'm Adam owner of [pajlot.pl][website] 👋
+## Hi there, I'm creator of [pajlot.pl][website] 👋
 
 ### I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
 
@@ -71,7 +71,7 @@ As Henry Ford said:
   * Web Security
 
 #### Cheers,<br />
-Adam<br />
+A*<br />
 [pajlot.pl][website]
 
 [website]: https://pajlot.pl
