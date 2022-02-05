@@ -1,11 +1,11 @@
-## Hi there, I'm creator of [pajlot.pl][website] 👋
+## Hi there, I'm creator of [pajlotapps][website] 👋
 
 ### I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
 
-- 🌱 I’m currently learning everything what is usefull 🤪
-- 🔭 I’m currently working on [ePTL]
+- 🌱 I’m currently learning everything what is usefull 🤪 (React native / expo]
+- 🔭 I’m currently working on [ePTL] / [wx-hub]
 - 👯 I’m looking to collaborate with other dev pilots 🛩 🚁 - feel free to [contact]
-- ⛳️ 2020/2021 Goal: pilotlog 🛫 web app 🛬 
+- ⛳️ 2021/2022 Goal: pilotlog 🛫 web app 🛬 
 - ⚡ modus operandi: Amat Victoria Curam – Victory loves preparation
 
 ### Connect with me:
@@ -25,6 +25,7 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Sketch" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png" />
 
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 
@@ -32,6 +33,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
@@ -72,11 +75,12 @@ As Henry Ford said:
 
 #### Cheers,<br />
 A*<br />
-[pajlot.pl][website]
+[pajlotapps][website]
 
-[website]: https://pajlot.pl
-[ePTL]: https://pajlot.pl/ptl
-[contact]: https://pajlot.pl/contact.html
+[website]: https://olechno-adam.web.app
+[ePTL]: https://eptl.bogada.ct8.pl
+[ex-hub]: http://wx-hub.netlify.app
+[contact]: https://olechno-adam.web.app
 [twitter]: https://twitter.com/PajlotApps
 [youtube]: https://www.youtube.com/channel/UCtSGCQ19d2m_rbOsxZ22Ubw/featured
 [instagram]: https://www.instagram.com/pajlotapps/
