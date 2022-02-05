@@ -79,7 +79,7 @@ A*<br />
 
 [website]: https://olechno-adam.web.app
 [ePTL]: https://eptl.bogada.ct8.pl
-[ex-hub]: http://wx-hub.netlify.app
+[wx-hub]: http://wx-hub.netlify.app
 [contact]: https://olechno-adam.web.app
 [twitter]: https://twitter.com/PajlotApps
 [youtube]: https://www.youtube.com/channel/UCtSGCQ19d2m_rbOsxZ22Ubw/featured
