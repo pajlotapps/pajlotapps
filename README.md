@@ -1,4 +1,4 @@
-## Hi there, I'm creator of [pajlotapps][website] 👋
+## Hi there, I'm creator of [pajlotapps] 👋
 
 ### I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
 
