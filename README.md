@@ -1,6 +1,6 @@
 ## Hi there, I'm creator of [pajlotapps] 👋
 
-### I'm a husband, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
+### I'm a husband and father, the self-learner iOS/web developer and 🇵🇱 🚁 pilot!
 
 - 🌱 I’m currently learning everything what is usefull 🤪 (React native / expo]
 - 🔭 I’m currently working on [ePTL] / [wx-hub]
