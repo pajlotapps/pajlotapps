@@ -82,7 +82,7 @@ A*<br />
 [ePTL]: https://eptl.bogada.ct8.pl
 [wx-hub]: http://wx-hub.netlify.app
 [wf-2022]: http://wf-2022.web.app
-[contact]: https://olechno-adam.web.app
+[contact]: [at]pm.me
 [twitter]: https://twitter.com/PajlotApps
 [youtube]: https://www.youtube.com/channel/UCtSGCQ19d2m_rbOsxZ22Ubw/featured
 [instagram]: https://www.instagram.com/pajlotapps/
