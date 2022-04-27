@@ -76,9 +76,11 @@ As Henry Ford said:
 
 #### Cheers,<br />
 A*<br />
-<--[pajlotapps][website]
+<!-- 
+[pajlotapps][website]
 
-[website]: https://olechno-adam.web.app-->
+[website]: https://olechno-adam.web.app
+-->
 [ePTL]: https://eptl.bogada.ct8.pl
 [wx-hub]: http://wx-hub.netlify.app
 [wf-2022]: http://wf-2022.web.app
