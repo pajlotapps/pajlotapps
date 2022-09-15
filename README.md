@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything what is usefull 🤪 (React native / expo]
 - 🔭 I’m currently working on [ePTL] / [wx-hub] / [wf-2022]
 - 👯 I’m looking to collaborate with other dev pilots 🛩 🚁 - feel free to [contact]
-- ⛳️ 2022+ Goal: pilotlog 🛫 web app 🛬 
+- ⛳️ 2022+ Goal: react ecommerce 🛫 web app 🛬 
 - ⚡ modus operandi: Amat Victoria Curam – Victory loves preparation
 
 ### Connect with me:
@@ -76,11 +76,13 @@ As Henry Ford said:
 
 #### Cheers,<br />
 A*<br />
+
 <!-- 
 [pajlotapps][website]
 
 [website]: https://olechno-adam.web.app
 -->
+[pajlotapps]: https://www.instagram.com/pajlotapps/
 [ePTL]: https://eptl.bogada.ct8.pl
 [wx-hub]: http://wx-hub.netlify.app
 [wf-2022]: http://wf-2022.web.app
