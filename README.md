@@ -8,6 +8,12 @@
 - ⛳️ 2023+ Goal: react ecommerce 🛫 web app 🛬 
 - ⚡ modus operandi: Amat Victoria Curam – Victory loves preparation
 
+## 👋 Find me
+
+<!--https://github.com/Envoy-VC/awesome-badges-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-olechno-0a999b216)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adamo0245)
+
 ### Connect with me:
 
 [<img align="left" alt="pajlot.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,6 +23,7 @@
 [<img align="left" alt="pajlotapps | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+## 🛠️ Skills
 
 ### Languages and Tools:
 
